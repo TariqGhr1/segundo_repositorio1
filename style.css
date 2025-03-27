@@ -9,3 +9,17 @@ body {
 footer{
     background-color: chartreuse;
 }
+
+.estudante-div{
+    text-align: center;
+    padding: 50px 0;
+}
+
+.estudante-titulo{
+    text-align: center;
+    padding: 16px 0;
+}
+.estudante-imagem{
+    width: 20%;
+    height: 20%;
+}
