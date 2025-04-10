@@ -24,6 +24,13 @@ body {
     width: 25px;
     padding: 4px 8px;
 }
+h1, h2, h3 {
+    color: blue;
+    font-weight: 700;
+}
+a:hover {
+    color: red;
+}
 footer{
     background-color: chartreuse;
 }
